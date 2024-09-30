@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\sanjay\\Desktop\\BlockChain\\projects\\web3\\smart_Contract\\contracts\\Transaction.sol": {
+      "lastModificationDate": 1727179577339,
+      "contentHash": "67cfcbbc7e162462f221c9bc392cdca4",
+      "sourceName": "contracts/Transaction.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Transaction"
+      ]
+    }
+  }
+}
